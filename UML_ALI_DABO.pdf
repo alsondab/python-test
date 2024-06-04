@@ -1,0 +1,41 @@
+UTA LICENCE 2 IGL - EXAMEN SESSION 1
+
+All Diagram_UML:
+
+Class Diagram:
+ 
+
+
+Use Case Diagram:
+ 
+
+
+Sequence Diagram:
+ 
+
+
+
+Activity Diagram:
+ 
+
+
+Objet Diagram:
+ 
+
+
+
+1. Description du projet :
+Le projet consiste à créer une application d'alarme horloge permettant aux utilisateurs de régler, activer/désactiver des alarmes, et de stocker ces paramètres dans une base de données. L'application permettra aux utilisateurs de gérer leurs alarmes de manière conviviale.
+
+2. Identification du système :
+Le système est une application d'alarme horloge qui permet aux utilisateurs de gérer leurs alarmes. Il inclut une base de données pour stocker les informations sur les utilisateurs et leurs alarmes.
+
+3. Identification des acteurs :
+- Utilisateur : Personne interagissant avec l'application pour régler, activer/désactiver des alarmes.
+- Base de données : Stocke les informations sur les utilisateurs et les alarmes.
+
+4. Identification des grandes fonctionnalités :
+- Ajouter une alarme.
+- Activer/Désactiver une alarme.
+- Afficher la liste des alarmes.
+- Stocker les informations des utilisateurs et des alarmes dans la base de données.
